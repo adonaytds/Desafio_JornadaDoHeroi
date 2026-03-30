@@ -1,0 +1,13 @@
+//const quantidadeGolpes = parseInt(gets());
+
+//
+//let minerais = ["Carvao", "Ferro", "Diamante", "Pedra"];
+
+//
+//for (let i = 1; i <= quantidadeGolpes; i++) {
+  // 
+  //let minaIndex = i % minerais.length;
+  
+  // colocando o - para que ler desde o inicio, mas poderia simplismente mudar o i pra i = 0
+  //print(i + ": " + minerais[(i - 1) % minerais.length]);
+//}
